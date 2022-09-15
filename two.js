@@ -1,5 +1,5 @@
 const two = {
-    a: 'a',
+    b: 'b',
 };
 
 export default two;
